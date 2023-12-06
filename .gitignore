@@ -5,3 +5,4 @@ sentiment-analysis-dataset/test.csv
 sentiment-analysis-dataset/testdata.manual.2009.06.14.csv
 sentiment-analysis-dataset/train.csv
 sentiment-analysis-dataset/training.1600000.processed.noemoticon.csv
+twitter-pos-neg-dataset
